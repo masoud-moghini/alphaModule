@@ -3,5 +3,5 @@ package alphaModule
 import "fmt"
 
 func Action() {
-	fmt.Println("version 0.0.1 modified")
+	fmt.Println("version 1.0.1 ")
 }
