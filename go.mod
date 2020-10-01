@@ -1,3 +1,3 @@
-module github.com/masoud-moghini/alphaModule/v1
+module github.com/masoud-moghini/alphaModule
 
 go 1.13
